@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amogbeyiteren
 - 👀 I’m interested in frontend web development.
-- 🌱 I’m currently learning HTML and CSS..
+- 🌱 I’m currently working with ReactJS and NodeJS..
 - 💞️ I’m looking to collaborate on web development...
-- 📫 How to reach me  abiloye.mogbeyiteren@stu.cu.edu.ng...
+- 📫 How to reach me  amogbeyiteren@gmail.com...
 
 <!---
 amogbeyiteren/amogbeyiteren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
