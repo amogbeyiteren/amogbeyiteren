@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amogbeyiteren
-- 👀 I’m interested in frontend web development.
-- 🌱 I’m currently working with ReactJS and NodeJS..
-- 💞️ I’m looking to collaborate on web development...
+- 👀 Full Stack Web Developer ReactJS and NodeJS.
+- 🌱 Mobile Developer React Native..
+- 💞️ I’m looking to collaborate on web development or mobile development...
 - 📫 How to reach me  amogbeyiteren@gmail.com...
 
 <!---
