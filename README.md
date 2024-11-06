@@ -1,12 +1,15 @@
 # Abiloye Mogbeyiteren
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amogbeyiteren&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amogbeyiteren&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amogbeyiteren&theme=radical)
+
+---
+
 📍 Sapele, Delta • ✉️ [amogbeyiteren@gmail.com](mailto:amogbeyiteren@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/abiloye-mogbeyiteren-412909286) • [Portfolio](https://abiloyeblossom.vercel.app/)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amogbeyiteren&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amogbeyiteren&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amogbeyiteren&theme=radical)
 
 ## 👨‍💻 Full-Stack Developer
 
